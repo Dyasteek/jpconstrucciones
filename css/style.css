@@ -183,3 +183,6 @@ body {
       font-size: 150px;
     }
   }
+  img{
+    object-fit: cover;
+  }
